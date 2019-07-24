@@ -6,3 +6,4 @@ cat /etc/os-release
 sleep 5
 ls -la
 cat /etc/passwd
+echo " try to do something"
